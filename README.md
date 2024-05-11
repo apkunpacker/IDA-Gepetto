@@ -5,6 +5,10 @@ Gepetto is a Python script which uses Local LLM to provide meaning to functions 
 
 <img width="595" alt="IDA" src="https://github.com/apkunpacker/IDA-Gepetto/assets/27184655/565daaaf-7c39-401d-b411-17b2dd90aad3">
 
+<img width="1505" alt="LMStudio" src="https://github.com/apkunpacker/IDA-Gepetto/assets/27184655/cf99ba0f-7d2a-4ea4-8bb2-845e4a240844">
+
+
+
 ## Setup
 
 Simply drop this script (as well as the `gepetto/` folder) into your IDA plugins folder (`$IDAUSR/plugins`). 
